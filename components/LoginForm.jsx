@@ -57,7 +57,6 @@ export default function LoginForm() {
               {error}
             </div>
           )}
-
           <Link className="text-sm mt-3 text-right" href={"/register"}>
             account? <span className="underline">Register</span>
           </Link>
